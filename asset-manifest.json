@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/ArtGallery/static/css/main.da08d0c8.css",
+    "main.js": "/ArtGallery/static/js/main.bea3ee50.js",
+    "index.html": "/ArtGallery/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.da08d0c8.css",
+    "static/js/main.bea3ee50.js"
+  ]
+}
